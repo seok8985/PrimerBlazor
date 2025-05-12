@@ -4,7 +4,7 @@ A set of Blazor components styled with GitHub’s Primer CSS system.
 
 ## 🚀 Getting Started
 
-PrimerBlazor is available for free on [NuGet](https://www.nuget.org/packages/PrimerBlazor), and the demo-related source code is open-source on [GitHub](https://github.com/seok8985/PrimerBlazor).
+PrimerBlazor is available for free on [NuGet](https://www.nuget.org/packages/PrimerBlazor), and the demo-related source code is open-source on [GitHub](https://github.com/seok8985/PrimerBlazor.Demo).
 
 ### ✅ Install via NuGet (.NET 8+)
 
