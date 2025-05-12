@@ -1,3 +1,6 @@
+# PrimerBlazor
+
+A set of Blazor components styled with GitHub’s Primer CSS system.
 
 ## 🚀 Getting Started
 
@@ -61,3 +64,6 @@ Include this line in your `_Imports.razor` file:
 
 You can now use components like `<PrimerBrandButton />`, `<PrimerBrandStack />`, and more.
 
+## 🪪 License
+
+MIT © 2025 seok8985
