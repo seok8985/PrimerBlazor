@@ -66,7 +66,3 @@ Include this line in your `_Imports.razor` file:
 ### 🧩 Start Using Components
 
 You can now use components like `<PrimerBrandButton />`, `<PrimerBrandStack />`, and more.
-
-## 🪪 License
-
-MIT © 2025 seok8985
